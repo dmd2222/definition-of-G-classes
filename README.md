@@ -1,6 +1,6 @@
 ## Deutsch - Definition der G-Klassen
 
-Hier: https://raw.githubusercontent.com/dmd2222/definition-of-G-classes/main/definitions/de/main.txt
+Hier: https://github.com/dmd2222/definition-of-G-classes/tree/main/definitions/de
 
 
 ## English
