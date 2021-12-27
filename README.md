@@ -16,5 +16,5 @@
 << description >>
 
 
-# Checkliste / TO-Do-Liste:
+# Checkliste / TO-DO-Liste:
 - Übersetzung Englisch
