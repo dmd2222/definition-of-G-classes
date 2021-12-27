@@ -1,3 +1,4 @@
+## Deutsch
 # Definition der G-Klassen
 
 3G (getestet oder geimpft oder genesen)
