@@ -13,6 +13,8 @@
 
 ## English
 # definition-of-G-classes
-definition of G-classes
+<< description >>
 
 
+# Checkliste / TO-Do-Liste:
+- Übersetzung Englisch
