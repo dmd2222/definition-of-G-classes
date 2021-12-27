@@ -1,14 +1,6 @@
-## Deutsch
-# Definition der G-Klassen
+## Deutsch - Definition der G-Klassen
 
-- 3G (getestet oder geimpft oder genesen)
-- 2G (geimpft oder genesen)
-- 1G (getestet)
-- PLUS (+) durchgeführter PCR-Test.
-
-
-
-# Beispiele:
+Hier: https://raw.githubusercontent.com/dmd2222/definition-of-G-classes/main/definitions/de/main.txt
 
 
 ## English
