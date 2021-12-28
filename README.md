@@ -4,6 +4,7 @@
     2G (geimpft oder genesen)
     1G (getestet)
     PLUS (+) durchgeführter PCR-Test.
+    PLUSPLUS (++) mit FFP2 Maske.
 
 Hier: https://github.com/dmd2222/definition-of-G-classes/tree/main/definitions/de
 
